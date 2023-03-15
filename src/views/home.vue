@@ -146,7 +146,7 @@ watch(messageList.value, () => nextTick(() => scrollToBottom()));
     >
       <div class="text-2xl font-bold">ChatGPT</div>
       <div class="ml-4 text-sm text-gray-500">
-        基于 OpenAI 的 ChatGPT 自然语言模型人工智能对话
+        <strong>用爱发光</strong> 基于 OpenAI 的 ChatGPT 自然语言模型人工智能对话，不用代理也能玩。点击设置填写 api key。<a href="https://github.com/Rodert/ChatGPT" style='color:red'>获取账号访问!</a>
       </div>
       <div
         class="ml-auto px-3 py-2 text-sm cursor-pointer hover:bg-white rounded-md"
