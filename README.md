@@ -8,9 +8,15 @@
 
 **注意：项目没有使用任何代理，API 在前端直接调用，能否连通基于你本机的网络情况！**
 
-在开始之前，请确保您已正确安装 Node.js 运行时环境。如果您还没有安装 Node.js，请 [点击这里下载](https://nodejs.org/zh-cn/)。 node v18.15.0
+在开始之前
 
-使用 ChatGPT 需要先申请 API Key，已注册但还没有 API Key 的用户可以 [前往这里生成](https://platform.openai.com/account/api-keys)。
+1. 请确保您已正确安装 Node.js 运行时环境。如果您还没有安装 Node.js，请 [点击这里下载](https://nodejs.org/zh-cn/)。 node v18.15.0
+
+2. 使用 ChatGPT 需要先申请 API Key，已注册但还没有 API Key 的用户可以 [前往这里生成](https://platform.openai.com/account/api-keys)。
+
+3. 如果无法申请账号，可前往 [前往点击下单](https://www.fakabang.com/details/565AC452)
+
+4. 体验推荐 [点击体验](http://chatgpt.daxiangyun.net/)
 
 准备就绪后，进入项目根目录执行以下命令运行项目：
 
